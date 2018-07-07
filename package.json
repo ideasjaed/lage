@@ -1,0 +1,22 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.0"
+  },
+  "dependencies": {
+    "gulp-connect": "^5.5.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
